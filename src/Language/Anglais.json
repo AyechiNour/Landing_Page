@@ -1,0 +1,149 @@
+{
+    "navbar": "MINT",
+    "navbar2": "SOON",
+    "navbarItem1": "About Us",
+    "navbarItem2": "Roadmap",
+    "navbarItem3": "LookBook",
+    "navbarItem4": "FAQ",
+    "navbarItem5": "Project",
+    "HeaderTitle1Part1": "Carbon",
+    "HeaderTitle1Part2": "Base",
+    "HeaderTitle2": "NFT LOTTERY",
+    "HeaderTitle3": "Win 1.200.000,00$ in prize money !",
+    "HeaderParagraph": "Participate to one of the biggest and 100% winning online NFT lottery.Discover a project for gambling lovers, gamers, and individuals interested in the online world.  Come honor, relive and collect more than just digital collectibles NFTs. ",
+    "bouton1": "More info",
+    "AboutTitle": "Get to know us",
+    "AboutTitle1Part1": "Carbon",
+    "AboutTitle1Part2": "Base",
+    "AboutParagraph1": "Carbon Base intends to become the market leader in online gambling while leveraging the ETH blockchain, the leading cryptocurrency to access this universe.",
+    "AboutParagraph2": "Unique on the market, the Carbon Base lottery offers exclusive benefits to its holders as 1.2 million dollars of winnings will be distributed to the winners.",
+    "AboutParagraph3": "The Carbon Base lottery is just one part of a revolutionary project that will continue to grow over time. NFT holders will be directly involved in the growth, implementation, and evolution of online gambling.",
+    "AboutParagraph4": "Our challenge is to create a community around three pillars: gambling, NFTs, and cryptocurrencies.",
+    "AboutParagraph5": "Join Us, and Discover Carbon Base.",
+    "CreationTitlePart0": "NFTs",
+    "CreationTitlePart1": "Lookbook.",
+    "CreationTitlePart2": "",
+    "CreationParagraph": "Take a closer look at some of our Carbon Base 3D Art.",
+    "PlatformTitle": "F.A.Q",
+    "PlatformInfo": [
+        {
+            "question": "How many NFTs will be available?",
+            "paragraph1": "7777 NFTs will be available to mint. 81 of them will be winning NFT lottery tickets. All the NFTs are 100% unique et will grant you a place in the Carbon Base project.  This lottery will 100% make you win since all holders will be awarded credits to play on the online casino platform."
+        },
+        {
+            "question": "How do I know if I won the lottery?",
+            "paragraph1": "If you mint one of these following 81 special NFTs, congrats, you won win a prize.",
+            "prize1": "1 Diamond NFT - $1.000.000,00",
+            "prize2": "10 Gold NFTs - $10.000,00",
+            "prize3": "25 Silver NFTs - $2.500,00",
+            "prize4": "50 Bronze NFTs - $1.000,00",
+            "paragraph2": "No worries if you do not own one of the 81 NFTs, free credits will be attributed to your account on our platform. You will be able to play and win many other prizes. Credits will be distributed to all owners of the Carbon Base classic NFTs."
+        },
+        {
+            "question": "How to claim my prizes?",
+            "paragraph1": "$1.200.000,00 will be distributed to the owners of the Bronze NFTS (total of 50 NFTs worth $1000), Silver NFTs (total of 25 NFTs worth $2.5000), Gold NFTs (total of 10 NFTs worth $10.000) and the unique Diamond NFT with a worth of $1.000.000,00.",
+            "paragraph2": "After the reveal, all the rewards will be transferred in Ethereum to the owners' wallets.",
+            "paragraph3": ""
+        },
+        {
+            "question": "Will there be a pre-sale?",
+            "paragraph1": "Yes, there will be a pre-sale for the Whitelisted members.",
+            "paragraph2": "Only 2000 NFTs will be reserved for the pre-sale.",
+            "paragraph3": "The most active members of the community will get an access for the Whitelist. For more information on how to be Whitelisted, please consult our Discord."
+        },
+        {
+            "question": "What about the Platform ?",
+            "paragraph1": "A platform of online gambling games will be available very soon. This online gambling platform will insert itself in the Carbon Base universe. All the owners of NFTs from our collection will get a premium access to play online and will benefit from advantages. (free credits)",
+            "paragraph2": "All our games are gamblin games, from the most original games to some all-time classics such as roulette, slot machines, live casinos and many others.",
+            "paragraph3": "It will be possible to win and withdraw the gambling gains in Ethereum on the wallet."
+        },
+        {
+            "question": "How can I mint my Carbon Base NFT and participate at the lottery?",
+            "paragraph1": "You will be able to Mint the NFT and enter the lottery via this page.",
+            "paragraph2": "You will need a Metamask wallet or a Wallet Connect compatible wallet.",
+            "paragraph3": "‍You can check our tutorials on Discord."
+        }
+    ],
+    "LevelInfo": [
+        {
+            "id": 1,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img01.png",
+            "effet": "/Images/Back01.png",
+            "para": "We will structure and build the overall project. Creativity, development, and performance are the watchwords. Be prepared for the spread of CARBON BASE on social media and get to know more details regarding the concepts, the NFTs, and the cryptocurrency casino.",
+            "1": "Creation of a money lottery concept with Carbone Bases NFTs",
+            "2": "Design of our NFTs with the 3D developers and team artists.",
+            "3": "Development of an innovative online cryptocurrency casino platform."
+        },
+        {
+            "id": 2,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img02.png",
+            "effet": "/Images/Back02.png",
+            "para": "Raffles and polls will be organized to get our NFTs before anyone else and see what you're interested in gaining most. By marketing a worldwide project online and in the real world, people from all over the globe will be able to join us & share with us a common vision. Surprises await you. ",
+            "1": "Expansion of the community",
+            "2": "Meeting the funders and users",
+            "3": "Opening a Whitelist for the NFTs",
+            "4": "Contests and giftings"
+        },
+        {
+            "id": 3,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img03.png",
+            "effet": "/Images/Back03.png",
+            "para": "This phase is the heart of Carbon Base. Winners of the money lottery are announced, the community is strong and getting more powerful, and the gaming platform is live. ",
+            "1": "Opening of a pre-mint.",
+            "2": "Minting of NFTs.",
+            "3": "Announcements of winners for our lottery: the diamond, gold, silver, and bronze NFT holders.",
+            "4": "Launch of the online casino games platform (MVP).",
+            "5": "Private Access & Gaming Credits to the platform for the NFT holders"
+        },
+        {
+            "id": 4,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img04.png",
+            "effet": "/Images/Back04.png",
+            "para": "This phase will allow us to push the project to its maximum potential and make it operate worldwide. The collected revenues will be invested in developing the online gaming platform.",
+            "1": "Continuing the development of the platform.",
+            "2": "The Goal of the project is to become the N°1 of the online cash games  and make our community elite.",
+            "3": "Development of future online games."
+        },
+        {
+            "id": 5,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img05.png",
+            "effet": "/Images/Back05.png",
+            "para": "This phase will be developed by looking at our performance and capacity over time. The community will actively participate and help us see ahead. What the future holds for the online, money, and gaming world? We will be the first to be there and lead.",
+            "1": "Creation of a casino in the metaverse.",
+            "2": "Set Carbon Base and NFTs holders in the metaverse.",
+            "3": "Creation of a full futuristic gaming world.",
+            "4": "Collaborations and partnerships for Carbon Base group. "
+        }
+    ],
+    "CommunityTitle": "Join Our Community",
+    "CommunityParagraph": "Be part of the Carbon Base & follow our thriving project by joining our community. You will be able to connect with our team, members, gamers, crypto-lovers, artists, and developers from all around the world, chat and participate in developing a successful project.",
+    "CommunityBouton": "Let’s talk",
+    "FAQTitle": "100% WINNING LOTTERY :",
+    "FAQParagraph1": "The Carbon Base lottery is one of the biggest lottery ever organized from an NFT collection. The characters of our NFT collection will make you dive in the gambling universe. The lottery holds 7 777 NFTs. This is a 100% winning lottery as all holders will be given free credits to play on the online casino platform and try to win prizes...",
+    "FAQParagraph2": " The different prizes will be distributed upon the NFT you own :",
+    "won1": "1 Diamond NFT -",
+    "price1": "$1.000.000,00",
+    "won2": "10 Gold NFTs - ",
+    "price2": "$10.000,00",
+    "won3": "25 Silver NFTs - ",
+    "price3": "$2.500,00",
+    "won4": "50 Bronze NFTs - ",
+    "price4": "$1.000,00",
+    "won5": "7696 Classic NFTs - ",
+    "price5": "300 credits",
+    "FAQBouton": "Good luck everyone !",
+    "FooterPart1": "",
+    "FooterPart2": "Join Our Discord",
+    "FooterPart3": "& Discover Carbon Base",
+    "FooterRights": "2022 all rights reserved"
+}

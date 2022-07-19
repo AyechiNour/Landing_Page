@@ -1,0 +1,149 @@
+{
+    "navbar": "MINT",
+    "navbar2": "BIENTOT",
+    "navbarItem1": "A Propos",
+    "navbarItem2": "Roadmaps",
+    "navbarItem3": "LookBook",
+    "navbarItem4": "FAQ",
+    "navbarItem5": "Projets",
+    "HeaderTitle1Part1": "Carbon",
+    "HeaderTitle1Part2": "Base",
+    "HeaderTitle2": "LOTERIE NFT",
+    "HeaderTitle3": "1.200.000,00$ à gagner !",
+    "HeaderParagraph": "Participez à l’une des plus grandes loteries NFT 100% gagnantes.  Si vous êtes amateur de jeux d’argent, de casino en ligne, alors ce projet est pour vous. Carbon Base, bien plus qu’une collection NFT.",
+    "bouton1": "En savoir plus",
+    "AboutTitle": "A Propos De",
+    "AboutTitle1Part1": "Carbon",
+    "AboutTitle1Part2": "Base",
+    "AboutParagraph1": "Carbon Base a pour intention de devenir leader dans le secteur des jeux d’argent en ligne tout en exploitant la blockchain de l’ETH qui sera la crypto-monnaie principale pour accéder à cet univers. Carbon Base sera composé de loterie, de casino en ligne ainsi que de paris sportifs.",
+    "AboutParagraph2": "Unique sur le marché, la loterie Carbon Base propose des bénéfices exclusifs à leurs détenteurs puisque 1.2 million de dollars de gains seront redistribués aux gagnants.",
+    "AboutParagraph3": "La loterie Carbon Base ne représente qu’une partie d’un projet révolutionnaire qui ne cessera de croître sur le long terme. Les détenteurs des NFTs participeront directement à la croissance, l'implémentation et l’évolution des jeux d’argent en ligne.",
+    "AboutParagraph4": "Notre enjeu est de créer une communauté autour de 3 piliers : les jeux d’argent, les NFT et les cryptomonnaies.",
+    "AboutParagraph5": "Rejoignez-nous et découvrez Carbone base !",
+    "CreationTitlePart0": "",
+    "CreationTitlePart1": "Le lookbook du",
+    "CreationTitlePart2": "NFT",
+    "CreationParagraph": "Jetez un coup d’oeil aux NFTs de Carbon Base.",
+    "PlatformTitle": "F.A.Q",
+    "PlatformInfo": [
+        {
+            "question": "Combien de NFT seront disponibles ?",
+            "paragraph1": "7777 NFTs seront disponibles et 81 d'entre eux permettent d’accéder aux gros gains. Chaque NFT est 100% unique et vous permettra de faire partie du projet Carbon Base. Loterie 100% gagnante puisque tous les détenteurs se verront attribués des crédits pour jouer sur la plateforme de casino en ligne."
+        },
+        {
+            "question": "Comment savoir si j'ai gagné ?",
+            "paragraph1": "Si vous possédez un des 81 NFTs spéciaux, félicitations, vous avez gagné les gains associés !!",
+            "prize1": "1 NFT Diamond - 1 000 000,00$",
+            "prize2": "10 NFTs Gold - 10 000,00$",
+            "prize3": "25 NFTs Silver - 2 500,00$",
+            "prize4": "50 NFTs Bronze - 1 000,00 $",
+            "paragraph2": "Pas d'inquiétude si vous ne possédez pas un de ces 81 NFTs, des crédits gratuits vous seront attribués dans votre compte sur notre plateforme de casino en ligne. Vous allez pouvoir jouer et avoir la chance de remporter d’autres gains ! Les crédits seront distribués à toutes les personnes en possession d’un NFT classique de la collection Carbon Base."
+        },
+        {
+            "question": "Comment toucher mes gains ?",
+            "paragraph1": "En effet, 1.200.000,00$ de gains seront distribués aux acquéreurs des NFTs :",
+            "paragraph2": "NFTs Bronze (50 NFTs à 1000$), NFTs Silver (25 NFTs à 2 500$), NFTs Gold (10 NFTs à 10 000$) et de l’unique NFT Diamond avec un gain de 1 000 000,00$.",
+            "paragraph3": "Après le reveal, tous les gains seront transférés en Ethereum sur les wallets des gagnants. Le transfert sera effectué 5 à 10 jours après le reveal."
+        },
+        {
+            "question": "Y-aura-t-il une pré-sale ?",
+            "paragraph1": "Oui, il y aura une pré-sale pour les membres de la Whitelist.",
+            "paragraph2": "Seulement 2000 NFTs seront réservés pour la pré-sale.",
+            "paragraph3": "Les membres les plus actifs de la communauté pourront accéder à la Whitelist. Pour plus d’informations sur comment figurer sur la Whitelist, consultez notre Discord."
+        },
+        {
+            "question": "A propos de la Plateforme ?",
+            "paragraph1": "Une plateforme de jeu d’argent en ligne sera disponible très prochainement. Cette plateforme de jeux d’argent en ligne s'insérera dans l’univers de Carbon Base. Toutes les personnes possédant un NFT de notre collection pourront jouer en ligne et bénéficieront d’avantages (crédits gratuits).",
+            "paragraph2": "Tous les jeux sont des jeux d’argents, des jeux les plus originaux aux grands classiques tels que la roulette, les machines à sous, les live casinos, etc.",
+            "paragraph3": "‍Il sera possible de gagner et retirer ses gains en Ethereum sur son portefeuille."
+        },
+        {
+            "question": "Comment puis-je Mint et participer à la loterie NFT ?",
+            "paragraph1": "Vous pouvez Mint un NFT et participer à la loterie via cette page.",
+            "paragraph2": "Vous aurez besoin d'un portefeuille Metamask ou d'un portefeuille compatible avec Wallet Connect.",
+            "paragraph3": "‍Vous pouvez consulter nos tutoriels sur Discord."
+        }
+    ],
+    "LevelInfo": [
+        {
+            "id": 1,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img01.png",
+            "effet": "/Images/Back01.png",
+            "para": "Nous allons structurer et construire la globalité du projet. Créativité, développement et performance sont les mots d’ordre.Préparez-vous à l’immersion de Carbon Base sur les réseaux sociaux et découvrez plus en détails l’ensemble de nos NFTs et notre casino en crypto-monnaie.",
+            "1": "Création d'un concept de loterie monétaire avec les NFTs Carbone Base.",
+            "2": "Design de nos NFTs avec les développeurs 3D et les artistes de l’équipe.",
+            "3": "Développement d'une plateforme innovante de casino en ligne en crypto-monnaie."
+        },
+        {
+            "id": 2,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img02.png",
+            "effet": "/Images/Back02.png",
+            "para": "Des tirages au sort et des sondages seront organisés pour obtenir nos NFTs en avant-première mais aussi plein d’autres avantages exclusifs. Notre stratégie de communication est appuyée par un marketing digital et traditionnel à l’échelle internationale pour créer une communauté unie partageant une même vision. Des surprises vous attendent. ",
+            "1": "Expansion de la communauté.",
+            "2": "Rencontre avec les investisseurs et les utilisateurs.",
+            "3": "Ouverture d'une whitelist pour les NFTs.",
+            "4": "Concours et giftings"
+        },
+        {
+            "id": 3,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img03.png",
+            "effet": "/Images/Back03.png",
+            "para": "Cette phase est le cœur du projet. Les gagnants de la loterie seront annoncés, notre communauté devient de plus en plus forte et la plateforme de jeu est en ligne.",
+            "1": "Ouverture du pré-mint.",
+            "2": "Minting des NFTs.",
+            "3": "Annonce des gagnants de la loterie : les détenteurs des NFTs Diamant, Or, Argent et Bronze.",
+            "4": "Lancement de la plateforme de jeux de casino en ligne (MVP).",
+            "5": "Accès privé et attribution de crédits de jeu pour tous les détenteurs de NFT."
+        },
+        {
+            "id": 4,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img04.png",
+            "effet": "/Images/Back04.png",
+            "para": "Cette phase permettra d’augmenter le potentiel du projet à son maximum, en le rendant opérationnel dans le monde entier. Les revenus collectés seront investis dans le développement de la plateforme de jeux en ligne.",
+            "1": "Poursuivre le développement de la plateforme de jeux en ligne.",
+            "2": "L’objectif du projet est de devenir le N°1 des cash games en ligne et faire de notre communauté une élite.",
+            "3": "Développement de futurs jeux"
+        },
+        {
+            "id": 5,
+            "name1": "CARBON",
+            "name2": "BASE",
+            "img": "/Images/img05.png",
+            "effet": "/Images/Back05.png",
+            "para": "Cette phase sera développée en examinant nos performances et nos capacités au fil du temps. La communauté pourra participer activement à notre développement et à notre projection.Que nous réserve le futur en ligne et le monde des jeux ? Nous serons les premiers à le savoir et à vous guider.",
+            "1": "Création d'un casino dans la Metaverse.",
+            "2": "Installer Carbon Base et les détenteurs des NFTs dans la Metaverse.",
+            "3": "Création d'un monde de jeux futuristes complet.",
+            "4": "Collaborations et partenariats pour le groupe Carbon Base."
+        }
+    ],
+    "CommunityTitle": "Rejoindre Notre Community",
+    "CommunityParagraph": "Faites partie de Carbon Base et suivez notre projet en rejoignant notre communauté. Vous allez pouvoir discuter avec notre team, membres, joueurs, crypto-lovers, artistes et développeurs du monde entier, tout en participant au développement d’un projet couronné de succès.",
+    "CommunityBouton": "Contactez-Nous",
+    "FAQTitle": "LOTERIE 100% GAGNANTE :",
+    "FAQParagraph1": "La loterie Carbon Base est l’une des plus grandes loteries jamais organisée autour d’un projet NFT. Les 7777 personnages de cette collection NFTs vous plongeront directement dans l'univers des jeux d'argent. Il s’agit d’une loterie 100% gagnante puisque tous les détenteurs se verront attribuer gratuitement des crédits pour jouer sur la plateforme de casino en ligne et tenter de remporter des gains…",
+    "FAQParagraph2": "Les différents gains de la loterie seront distribués en fonction de la NFT que vous possédez :",
+    "won1": "1 NFT Diamond -",
+    "price1": "1 000 000,00$",
+    "won2": "10 NFTs Gold - ",
+    "price2": "10 000,00$",
+    "won3": "25 NFTs Silver - ",
+    "price3": "2 500,00$",
+    "won4": "50 NFTs Bronze - ",
+    "price4": "1 000$",
+    "won5": "7696 NTFs classiques  - ",
+    "price5": "300 crédits",
+    "FAQBouton": "Bonne chance à tous !",
+    "FooterPart1": "Lorem Lepsum",
+    "FooterPart2": "Rejoindre Notre Discord",
+    "FooterPart3": "& Découvre Carbon Base",
+    "FooterRights": "2022 tous les droits sont reservés"
+}
